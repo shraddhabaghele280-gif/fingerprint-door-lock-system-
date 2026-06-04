@@ -1,0 +1,10 @@
+#include <Adafruit_Fingerprint.h>
+
+void setup() {
+  Serial.begin(9600);
+  // Initialize fingerprint sensor
+}
+
+void loop() {
+  // Add fingerprint scanning and matching logic here
+}
